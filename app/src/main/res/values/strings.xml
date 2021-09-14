@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kotlin2</string>
+    <string name="image"><![CDATA[https://images.pexels.com/photos/6232725/pexels-photo-6232725.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940]]></string>
+    <string name="image2"><![CDATA[https://images.pexels.com/photos/6675908/pexels-photo-6675908.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940]]></string>
+    <string name="image3">https://www.pixsy.com/wp-content/uploads/2021/04/ben-sweet-2LowviVHZ-E-unsplash-1.jpeg</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
